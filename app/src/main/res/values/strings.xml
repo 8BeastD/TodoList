@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="date">Date</string>
+    <string name="my_to_do_list">My To-Do List</string>
+    <string name="let_s_get_productive_today">👋 Let\'s get productive today!</string>
+    <string name="stay_organized_and_boost_your_productivity_add_your_daily_tasks_and_keep_track_of_them_effortlessly_tap_a_task_to_mark_it_done">Stay organized and boost your productivity! Add your daily tasks and keep track of them effortlessly. Tap a task to mark it done.</string>
+    <string name="enter_your_task">Enter your task</string>
+    <string name="add">Add</string>
+</resources>
